@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: buyabrick_development
+  pool: 5
+  username: testing
+  password: testing

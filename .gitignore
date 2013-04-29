@@ -3,6 +3,5 @@ tmp/**/*
 .DS_Store
 doc/api
 doc/app
-config/*.yml
 db/*.sqlite3
 coverage

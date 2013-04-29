@@ -9,7 +9,7 @@ gem "json", "~> 1.7.7"
 
 gem 'just_giving', '~>0.3.0'
 gem 'newrelic_rpm', '~>3.3.1'
-gem 'sqlite3', '~>1.3.5'
+gem 'pg'
 gem 'blankslate', '~>2.1.2'
 gem 'xml-simple', '~>1.1.1'
 gem 'tzinfo', '~>0.3.31'
